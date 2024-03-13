@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a third-year computer science student at CY Cergy Paris Université, passionate about exploring areas of computer science, I master Web languages (HTML, CSS, PHP, JavaScript, jQuery), Databases (MySQL, PostgreSQL), Java, Python, C, Assembly language, AI, System Administration (Linux & Windows). I have a specialization in Big Data and learning Cybersecurity on "tryhackme.com" before my master degree.
+I'm a third-year computer science student at CY Cergy Paris Université, passionate about exploring areas of computer science, I master Web languages (HTML, CSS, PHP, JavaScript, jQuery), Databases (MySQL, PostgreSQL), Java, Python, C, Assembly language, AI, System Administration (Linux & Windows). I have a specialization in Big Data and I'm currently learning Cybersecurity on "tryhackme.com" before my master degree.
 
 
 ## 🌐 Socials:
